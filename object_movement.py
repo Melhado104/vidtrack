@@ -5,6 +5,7 @@ import argparse
 import imutils
 import cv2
 
+
 # construct argument parse and parse the arguments
 ap = argparse.ArgumentParser()
 ap.add_argument("-v", "--video", help="path to the (optional) video file")
